@@ -13,6 +13,7 @@
 - Emoji
 - Copy To Clipboard
 - More....
-
+## LIVE
+[LIVE Preview](https://jubayer-hossain.github.io/docsify-book-template/#/)
 ## Opensource 
 > You can use this template for your project! 
