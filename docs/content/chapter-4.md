@@ -19,6 +19,14 @@ print(A2)
 ## Python Tutor 
 <iframe width="100%" height="300" frameborder="0" src="https://pythontutor.com/iframe-embed.html#code=i%20%3D%200%0Awhile%20i%20%3C%3D%2010%3A%20%0A%20%20%20%20i%20%2B%3D%201%20%0A%20%20%20%20print%28i%29&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=0&heapPrimitives=nevernest&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
 
+```c
+#include<stdio.h> 
+int main() {
+    printf("Hello World!");  
+    return 0; 
+}
+```
+
 ## JavaScript 
 ```javascript
 function sayHello(name) {
@@ -41,24 +49,3 @@ $$
 ## Emoji 
 :100:
 :uk:
-
-## Tab
-<!-- tabs:start -->
-#### ** Python **
-
-```python
-print("Hello World!")
-```
-#### ** C Programming **
-```c
-#include<stdio.h> 
-int main() {
-    printf("Hello World!");  
-    return 0; 
-}
-```
-#### ** JavaScript **
-```javascript
-console.log("Hello World"); 
-```
-<!-- tabs:end -->
